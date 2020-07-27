@@ -1,4 +1,4 @@
-status = 'Thank you Mario! But Our Princess Is In Another Castle!'
+status = "Thank you Mario! But Our Princess Is In Another Castle!"
 
 def mario
   phrase = "It's-a me, Mario!"
